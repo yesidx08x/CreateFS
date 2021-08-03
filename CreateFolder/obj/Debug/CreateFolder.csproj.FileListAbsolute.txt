@@ -1,0 +1,9 @@
+E:\work_ref\vs2013\CreateFolder\CreateFolder\bin\Debug\CreateFolder.exe
+E:\work_ref\vs2013\CreateFolder\CreateFolder\bin\Debug\CreateFolder.pdb
+E:\work_ref\vs2013\CreateFolder\CreateFolder\obj\Debug\CreateFolder.csprojResolveAssemblyReference.cache
+E:\work_ref\vs2013\CreateFolder\CreateFolder\obj\Debug\CreateFolder.mainForm.resources
+E:\work_ref\vs2013\CreateFolder\CreateFolder\obj\Debug\CreateFolder.Properties.Resources.resources
+E:\work_ref\vs2013\CreateFolder\CreateFolder\obj\Debug\CreateFolder.csproj.GenerateResource.Cache
+E:\work_ref\vs2013\CreateFolder\CreateFolder\obj\Debug\CreateFolder.exe
+E:\work_ref\vs2013\CreateFolder\CreateFolder\obj\Debug\CreateFolder.pdb
+E:\work_ref\vs2013\CreateFolder\CreateFolder\obj\Debug\CreateFolder.AboutBox.resources
