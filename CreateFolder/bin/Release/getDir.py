@@ -1,11 +1,11 @@
 # >cd /d M:\Users\TD\Netless\production\studio\tools\Python27
-# >python E:\work_ref\vs2013\CreateFS\CreateFolder\bin\Release\getDir.py https://orcen.ftrackapp.cn 
-# MDgxODFmYmMtZGE0Yi00NWY3LWJkZmUtYjFiZmY1ZDRmMjM0OjphMmIxYzVkOC02ZjU2LTQ5MjEtYTBiOC03ZTc1ZTc2NzIwZDI hanyu@orcen.com SYYX
+# >python {path}\getDir.py {ftrack_url} {ftrack_apikey} {user——name} {project_name}
 import sys,os
 '''
+# add proxy server for local
 if not 'HTTPS_PROXY' in os.environ:
-		os.environ['HTTPS_PROXY'] = 'http://10.0.0.253:8888'
-		print(os.environ['HTTPS_PROXY'])
+	os.environ['HTTPS_PROXY'] = 'http://myproxy:port'
+	print(os.environ['HTTPS_PROXY'])
 '''
 currentPath=sys.prefix
 if os.path.isdir(r'd:/Python27/Lib/site-packages.new/ftrack_python_api-1.1.0-py2.7.egg/ftrack_api'):
